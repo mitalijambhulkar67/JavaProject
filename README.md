@@ -9,6 +9,9 @@ A SnakeLadderGame, contains player details, rules of the game and other necessar
 Project 03 : SUDOKUSOLVER
 Solve Sudoku and N-Queen Problem.
 
-Project 03 : VendingMachine
+Project 04 : VendingMachine
 Functionalities of Vending Machine -
 **Product Selection, Payment Handling, Product Dispensing, Change Dispensing and etc.
+
+Project 05 : TextEditor
+A simple text editor, to insert, delete, copy & paste, undo & redo and display operations.
